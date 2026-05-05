@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Буферизация_обр",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 582384.977479060646147, 6236147.884644032455981 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 582376.047791560762562, 6236310.107300283387303 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 582392.418885311228223, 6236399.404175281524658 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 582233.172791560529731, 6236872.677612783387303 ] } }
+]
+}

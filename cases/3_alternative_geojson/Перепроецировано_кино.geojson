@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_кино",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2371649004", "osm_id": "2371649004", "osm_type": "node", "amenity": "cinema", "name": "Космос" }, "geometry": { "type": "Point", "coordinates": [ 597969.159621485508978, 6226858.075202981941402 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3452918482", "osm_id": "3452918482", "osm_type": "node", "amenity": "cinema", "name": null }, "geometry": { "type": "Point", "coordinates": [ 582535.659217702108435, 6236084.383182713761926 ] } }
+]
+}

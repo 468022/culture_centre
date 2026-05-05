@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_тц",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5692925633", "osm_id": "5692925633", "osm_type": "node", "shop": "mall", "name": "ТЦ Антураж" }, "geometry": { "type": "Point", "coordinates": [ 530178.994526789640076, 6229212.383043185807765 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8897795959", "osm_id": "8897795959", "osm_type": "node", "shop": "mall", "name": "ТЦ Семья" }, "geometry": { "type": "Point", "coordinates": [ 530203.577985495561734, 6229263.556571144610643 ] } },
+{ "type": "Feature", "properties": { "full_id": "n11837576751", "osm_id": "11837576751", "osm_type": "node", "shop": "mall", "name": "Атлантида" }, "geometry": { "type": "Point", "coordinates": [ 619016.900839147740044, 6265349.733671114780009 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 583323.392346827546135, 6233443.097748694010079 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 586437.515684018377215, 6235293.072008409537375 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 584972.95272840897087, 6236079.31106879003346 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 584047.965598550043069, 6237590.123380892910063 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 584495.042711315094493, 6236372.223659912124276 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 584448.793354822089896, 6235493.485886545851827 ] } }
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "общ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n1170325427", "osm_id": "1170325427", "osm_type": "node", "amenity": "community_centre", "name": "Дом Культуры" }, "geometry": { "type": "Point", "coordinates": [ 33.4789438, 56.2075165 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1226696431", "osm_id": "1226696431", "osm_type": "node", "amenity": "community_centre", "name": "Клуб" }, "geometry": { "type": "Point", "coordinates": [ 33.1820473, 56.2339477 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1642701680", "osm_id": "1642701680", "osm_type": "node", "amenity": "community_centre", "name": "Клуб железнодорожников" }, "geometry": { "type": "Point", "coordinates": [ 34.3287812, 56.2565708 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6092431554", "osm_id": "6092431554", "osm_type": "node", "amenity": "community_centre", "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.7779558, 56.5321397 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8897805683", "osm_id": "8897805683", "osm_type": "node", "amenity": "community_centre", "name": "Оленинский детский оздоровительно-образовательный центр физической подготовки" }, "geometry": { "type": "Point", "coordinates": [ 33.4817014, 56.2073273 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8898330285", "osm_id": "8898330285", "osm_type": "node", "amenity": "community_centre", "name": "Глазковский Дом культуры" }, "geometry": { "type": "Point", "coordinates": [ 33.5278324, 56.2195095 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.294385200410716, 56.25460002556224 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.353193961034421, 56.253347625497014 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.330823272800643, 56.268412314665184 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.316267258118259, 56.272238831787583 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.363780360348208, 56.260642516051078 ] } }
+]
+}

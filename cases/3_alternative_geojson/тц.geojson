@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "тц",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5692925633", "osm_id": "5692925633", "osm_type": "node", "shop": "mall", "name": "ТЦ Антураж" }, "geometry": { "type": "Point", "coordinates": [ 33.4864916, 56.2068867 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8897795959", "osm_id": "8897795959", "osm_type": "node", "shop": "mall", "name": "ТЦ Семья" }, "geometry": { "type": "Point", "coordinates": [ 33.4868937, 56.2073449 ] } },
+{ "type": "Feature", "properties": { "full_id": "n11837576751", "osm_id": "11837576751", "osm_type": "node", "shop": "mall", "name": "Атлантида" }, "geometry": { "type": "Point", "coordinates": [ 34.9343735, 56.517459 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.344339173476556, 56.238552692404411 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.395170133173977, 56.254613103037151 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.371791256319838, 56.261939240795243 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.357343622163746, 56.275673949892493 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.364172034505408, 56.264655426559912 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "shop": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 34.363144930208307, 56.256770812479594 ] } }
+]
+}

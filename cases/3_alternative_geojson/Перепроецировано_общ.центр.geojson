@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_общ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n1170325427", "osm_id": "1170325427", "osm_type": "node", "amenity": "community_centre", "name": "Дом Культуры" }, "geometry": { "type": "Point", "coordinates": [ 529710.291914758156054, 6229279.201167769730091 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1226696431", "osm_id": "1226696431", "osm_type": "node", "amenity": "community_centre", "name": "Клуб" }, "geometry": { "type": "Point", "coordinates": [ 511285.202815007185563, 6232132.733469343744218 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1642701680", "osm_id": "1642701680", "osm_type": "node", "amenity": "community_centre", "name": "Клуб железнодорожников" }, "geometry": { "type": "Point", "coordinates": [ 582320.48792964941822, 6235429.636026494204998 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6092431554", "osm_id": "6092431554", "osm_type": "node", "amenity": "community_centre", "name": null }, "geometry": { "type": "Point", "coordinates": [ 609351.891683771274984, 6266723.389133573509753 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8897805683", "osm_id": "8897805683", "osm_type": "node", "amenity": "community_centre", "name": "Оленинский детский оздоровительно-образовательный центр физической подготовки" }, "geometry": { "type": "Point", "coordinates": [ 529881.499552830238827, 6229259.335085979662836 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8898330285", "osm_id": "8898330285", "osm_type": "node", "amenity": "community_centre", "name": "Глазковский Дом культуры" }, "geometry": { "type": "Point", "coordinates": [ 532732.743951604352333, 6230636.158060880377889 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 580193.852557473117486, 6235169.740391095168889 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 583839.843494332046248, 6235100.366356357000768 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 582421.529895215877332, 6236749.926737938076258 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 581511.959217521245591, 6237158.462720291689038 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 584479.626259150682017, 6235925.146547146141529 ] } }
+]
+}

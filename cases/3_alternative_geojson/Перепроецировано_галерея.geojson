@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_галерея",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n10316037576", "osm_id": "10316037576", "osm_type": "node", "tourism": "gallery", "opening_hours": "Tu-Sa 10:00-16:00", "name": "Борковская картинная галерея" }, "geometry": { "type": "Point", "coordinates": [ 607098.789249817375094, 6230610.072490505874157 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "tourism": null, "opening_hours": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 582344.447634393931367, 6236256.600268678739667 ] } }
+]
+}

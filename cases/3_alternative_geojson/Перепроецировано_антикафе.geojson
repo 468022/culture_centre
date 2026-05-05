@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_антикафе",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 582178.850525935762562, 6235095.669800283387303 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 581774.038025935878977, 6237048.294800282455981 ] } }
+]
+}
