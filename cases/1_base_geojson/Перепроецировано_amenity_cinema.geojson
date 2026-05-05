@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_amenity_cinema",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n1433192567", "osm_id": "1433192567", "osm_type": "node", "amenity": null, "website": null, "name": null, "contact:phone": null, "check_date": null, "entrance": "main" }, "geometry": { "type": "Point", "coordinates": [ 432319.710028274042998, 6065047.827676536515355 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1535121193", "osm_id": "1535121193", "osm_type": "node", "amenity": "cinema", "website": "http://www.cinemapark.ru/", "name": "Синема-парк", "contact:phone": "+7 347 2926887", "check_date": "2024-10-28", "entrance": null }, "geometry": { "type": "Point", "coordinates": [ 432159.793718750588596, 6065169.49808129761368 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1535121194", "osm_id": "1535121194", "osm_type": "node", "amenity": "cinema", "website": "http://www.cinemapark.ru/", "name": "Синема-парк", "contact:phone": null, "check_date": null, "entrance": null }, "geometry": { "type": "Point", "coordinates": [ 434808.721155576000456, 6066458.37000631634146 ] } }
+]
+}

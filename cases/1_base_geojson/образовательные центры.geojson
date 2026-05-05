@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "образовательные центры",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 435229.617420971742831, 6060764.133055409416556 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 434962.884203883702867, 6061188.481355322524905 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 434962.884203883702867, 6062473.650492201559246 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 436478.413846429495607, 6062946.495740675367415 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 435532.723349480947945, 6063613.328783395700157 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 435690.338432305667084, 6063770.94386622030288 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 432841.142704319616314, 6065177.355374502949417 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 432137.936950178409461, 6064352.907248958013952 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 432756.273044337052852, 6065953.306551486253738 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 437120.998414868896361, 6064255.913351834751666 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 437011.880280605575535, 6063576.95607197470963 ] } }
+]
+}

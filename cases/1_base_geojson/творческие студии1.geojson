@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "творческие студии1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 430404.171039106033277, 6066498.897222802974284 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 430476.916461948247161, 6064995.491817397065461 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431592.346278861921746, 6066062.424685750156641 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431992.446104493981693, 6065989.679262907244265 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431580.222041721572168, 6065359.218931608833373 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431980.321867353632115, 6065153.106900222599506 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431289.24035035277484, 6064704.510126029141247 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431107.376793247298338, 6064268.037588975392282 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 435775.208092288230546, 6064692.385888888500631 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 436490.538083569845185, 6064510.522331782616675 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 436369.295712166174781, 6063892.186237623915076 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 436357.171475025825202, 6063686.07420623768121 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 436102.562495078134816, 6063237.477432044222951 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 435860.077752270794008, 6062267.538460815325379 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 436223.80486648180522, 6061879.562872323207557 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 435181.120472410286311, 6061685.575078077614307 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 434756.772172497469001, 6061540.084232392720878 ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 434453.666243988322094, 6061794.693212340585887 ] ] } }
+]
+}

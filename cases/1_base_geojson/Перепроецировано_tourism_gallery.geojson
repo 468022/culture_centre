@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_tourism_gallery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2324541425", "osm_id": "2324541425", "osm_type": "node", "tourism": "gallery", "opening_hours": null, "level": null, "air_conditioning": null, "phone": "+7 347 2504924", "name": "Уфимская художественная галерея", "fee": "yes", "check_date": "2023-04-24" }, "geometry": { "type": "Point", "coordinates": [ 432853.559006210067309, 6065735.486372958868742 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2324541427", "osm_id": "2324541427", "osm_type": "node", "tourism": "gallery", "opening_hours": null, "level": null, "air_conditioning": null, "phone": null, "name": "выставочный зал Наука и Искусство", "fee": null, "check_date": null }, "geometry": { "type": "Point", "coordinates": [ 432473.923259031085763, 6065394.801578157581389 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2324541428", "osm_id": "2324541428", "osm_type": "node", "tourism": "gallery", "opening_hours": null, "level": null, "air_conditioning": null, "phone": "+7 347 2731771", "name": "Галерея «Мирас»", "fee": null, "check_date": "2023-04-24" }, "geometry": { "type": "Point", "coordinates": [ 432497.408677041705232, 6065720.894450944848359 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2432215637", "osm_id": "2432215637", "osm_type": "node", "tourism": "gallery", "opening_hours": null, "level": null, "air_conditioning": null, "phone": null, "name": "Малый выставочный зал Союза художников РБ", "fee": null, "check_date": null }, "geometry": { "type": "Point", "coordinates": [ 432449.710362919839099, 6065692.292846503667533 ] } },
+{ "type": "Feature", "properties": { "full_id": "n11464680257", "osm_id": "11464680257", "osm_type": "node", "tourism": "gallery", "opening_hours": "Mo-Su 12:00-22:00", "level": "0", "air_conditioning": "yes", "phone": null, "name": "Zaman", "fee": "no", "check_date": "2025-02-25" }, "geometry": { "type": "Point", "coordinates": [ 432100.418470016040374, 6064985.855193446390331 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_amenity_community_centre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+
+]
+}

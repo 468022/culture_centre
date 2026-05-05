@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "коворкинги",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 433653.466592724143993, 6065140.98266308195889 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 436235.929103622154798, 6062570.644389323890209 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 434671.902512514905538, 6063479.962174851447344 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 434526.411666830535978, 6062037.17795514781028 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 435629.717246603860985, 6063370.844040588475764 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 435811.580803709337488, 6063540.583360553719103 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 435981.320123674464412, 6063686.07420623768121 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 431301.364587493124418, 6064001.304371887817979 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 431131.625267527997494, 6064268.037588975392282 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 431555.973567440814804, 6064704.510126029141247 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 431192.2464532298618, 6064365.031486098654568 ] } }
+]
+}

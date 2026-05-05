@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "антикафе",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32640" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 433386.733375636104029, 6067068.736368400044739 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 432659.279147214139812, 6065468.337065871804953 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 434696.150986795662902, 6065444.088591591455042 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 437787.83145758905448, 6065892.685365784913301 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 434162.684552619524766, 6062049.302192288450897 ] } }
+]
+}
