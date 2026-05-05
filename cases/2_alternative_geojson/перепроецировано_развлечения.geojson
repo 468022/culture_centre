@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "перепроецировано_развлечения",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355198.210327531734947, 6645830.723127039149404 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355793.522827531793155, 6647273.760627038776875 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355993.547827531816438, 6645621.173127039335668 ] } }
+]
+}

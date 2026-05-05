@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "amenity_theatre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n11453341469", "osm_id": "11453341469", "osm_type": "node", "amenity": "theatre", "opening_hours": null, "contact:website": null, "contact:phone": null, "name": "Театр кукол \"Конфитюр\"" }, "geometry": { "type": "Point", "coordinates": [ 30.4068606, 59.9342565 ] } },
+{ "type": "Feature", "properties": { "full_id": "n12357607497", "osm_id": "12357607497", "osm_type": "node", "amenity": "theatre", "opening_hours": "Mo-Su 12:00-20:00", "contact:website": "https://paradox-spb.tilda.ws", "contact:phone": "+7 927 4541051", "name": "Paradox" }, "geometry": { "type": "Point", "coordinates": [ 30.3799599, 59.9297213 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "amenity": null, "opening_hours": null, "contact:website": null, "contact:phone": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 30.417267701394426, 59.931569047429178 ] } }
+]
+}

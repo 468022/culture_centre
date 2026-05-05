@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_кино",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n1232034472", "osm_id": "1232034472", "osm_type": "node", "amenity": "cinema", "opening_hours": null, "name:en": null, "contact:vk": null, "website": "https://www.kino-moscow.ru/", "phone": "+7 812 2742012", "operator": "КАРО Фильм", "name": "Москва" }, "geometry": { "type": "Point", "coordinates": [ 353960.549626583640929, 6645923.400984849780798 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1549472747", "osm_id": "1549472747", "osm_type": "node", "amenity": "cinema", "opening_hours": "Mo-Su 10:00-23:00", "name:en": "Zanevsky cinema", "contact:vk": "kinozanevsky", "website": "http://peterburg-kino.spb.ru", "phone": "+7 812 4443785", "operator": null, "name": "Кинотеатр Заневский" }, "geometry": { "type": "Point", "coordinates": [ 355457.073224354884587, 6646027.646941727027297 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1783815243", "osm_id": "1783815243", "osm_type": "node", "amenity": "cinema", "opening_hours": null, "name:en": null, "contact:vk": null, "website": "http://www.kronverkcinema.ru/", "phone": null, "operator": null, "name": "Кронверк Синема" }, "geometry": { "type": "Point", "coordinates": [ 356806.137020327500068, 6646723.604515177197754 ] } },
+{ "type": "Feature", "properties": { "full_id": "n10237448609", "osm_id": "10237448609", "osm_type": "node", "amenity": "cinema", "opening_hours": null, "name:en": null, "contact:vk": null, "website": null, "phone": null, "operator": null, "name": "Каро" }, "geometry": { "type": "Point", "coordinates": [ 355706.067036683205515, 6647571.182682810351253 ] } }
+]
+}

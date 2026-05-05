@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "перепроецировано_творчество",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355255.360327531700023, 6645540.210627037100494 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355545.872827531653456, 6645730.710627038963139 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355555.397827531676739, 6646064.085627039894462 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355517.297827531816438, 6646283.160627039149404 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355674.460327531793155, 6646335.548127039335668 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355688.747827531711664, 6647688.098127038218081 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 356355.497827531828079, 6646921.335627038963139 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355536.347827531863004, 6646673.685627039521933 ] } }
+]
+}

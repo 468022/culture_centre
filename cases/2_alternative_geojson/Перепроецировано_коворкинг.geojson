@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроецировано_коворкинг",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 354688.622827531653456, 6646245.060627039521933 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 354702.910327531688381, 6646435.560627039521933 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 355131.535327531746589, 6646726.073127038776875 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 356084.035327531804796, 6647702.385627038776875 ] } }
+]
+}
